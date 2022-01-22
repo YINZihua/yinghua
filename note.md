@@ -19,7 +19,7 @@
 
     勾选 FormulaEvaluator，然后点击 OK 
 
-    ![avatar](5.png)
+![avatar](5.png)
 
 
     2. 将 solution 的启动 project 设置为 Test_The_Evaluator_Console_App
@@ -27,12 +27,12 @@
 
     右键 solution ， 进入选项 Set Startup Projects 
 
-    ![avatar](2.png)
+![avatar](2.png)
 
 
     将启动项目设置为类型为 Console APP 的 Test_The_Evaluator_Console_App
 
-    ![avatar](3.png)
+![avatar](3.png)
 
     这样做的目的是在 build 整个 solution 后 **启动工程时**，可以正确地找到 Test 的 Main函数并开始程序。
 
